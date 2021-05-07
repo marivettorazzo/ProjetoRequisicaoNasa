@@ -1,0 +1,33 @@
+body{
+    align-items: center;
+    background-image:url(./essa.png) ;
+    background-size:cover;
+    
+}
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif,fantasy;
+    color: white;
+}
+.botao{
+    width:100px;
+    margin-left: 46.5%;
+}
+.clique{
+ background-color: rgba(0, 0, 0, 0.233);
+ border-color: blanchedalmond;
+ color: blanchedalmond;
+ 
+}
+.infos{
+    width: 60%;
+}
+.foto{
+ width: 50%;
+ height: auto;
+
+}
